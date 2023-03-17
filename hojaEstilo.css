@@ -1,0 +1,41 @@
+.estiloTexto {
+    color: rgb(47, 0, 255);
+    text-align: right;
+    direction: ltr; 
+    text-indent: 80px;
+    letter-spacing: 5px;
+    line-height: 2.0;
+    word-spacing: 8px;
+    text-shadow: 5px 4px rgb(9, 255, 0); 
+    font-family: sans-serif;
+}
+
+.p1 {
+    color: rgb(16, 17, 2);
+    text-align: center;
+    direction: ltr; 
+    text-indent: 80px;
+    letter-spacing: 1px;
+    line-height: 1.0;
+    word-spacing: 8px;
+    text-shadow: 8px 5px 5px rgb(255, 0, 0); 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+
+   }
+   
+   .p2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+   }
+   
+   .p3 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    word-spacing: 20px; 
+}
+
+
+   
+    
+ 
